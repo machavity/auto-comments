@@ -46,8 +46,8 @@ It is preferred if you can post separate questions instead of combining your que
 ###[Q] Asking for code translation
 $SITENAME$ is a Question and Answer site, not a code translation service. Try to translate the code yourself first, then come to us when you are stuck, making sure to show us [what you have tried](//$SITEURL$/help/mcve).
 
-###[Q] Non English question
-Please write your question in English, since [$SITENAME$ is an English site.](//stackoverflow.com/help/non-english-questions)
+###[Q] Non English usage
+Please write your post in English, since [$SITENAME$ is an English site.](//stackoverflow.com/help/non-english-questions)
 
 ###[Q] Software Rec. question
 Unfortunately, questions asking us to recommend or find a book, tool, software library, tutorial or other off-site resource are off-topic here. However, you may find better luck [SoftwareRecs.SE](//softwarerecs.stackexchange.com/tour). Remember to read [their question requirements](//softwarerecs.stackexchange.com/help/on-topic) as they are more strict than this site.
